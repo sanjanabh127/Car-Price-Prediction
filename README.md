@@ -150,4 +150,8 @@ The **model.pkl** file stores the trained Random Forest model in binary format.
    
 ![image alt](https://github.com/sanjanabh127/Car-Price-Prediction/blob/a5efd5da748d64d96b45b564693afd19c248b7b7/Screenshot%202025-12-02%20144425.png)
 
+![image alt](https://github.com/sanjanabh127/Car-Price-Prediction/blob/33ff2a7a26e4b0b26b9a82c3b71072ee669bc139/Screenshot%202025-12-02%20170955.png)
+
+![image alt](https://github.com/sanjanabh127/Car-Price-Prediction/blob/33ff2a7a26e4b0b26b9a82c3b71072ee669bc139/Screenshot%202025-12-02%20171017.png)
+
 ![image alt](https://github.com/sanjanabh127/Car-Price-Prediction/blob/1a611661ecb3e974e678a82acd7689433652966a/Screenshot%202025-12-02%20144437.png)
