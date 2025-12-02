@@ -148,3 +148,4 @@ The **model.pkl** file stores the trained Random Forest model in binary format.
 
  **model.pkl** acts as the bridge between model training and deployment, enabling real-time car price predictions.
    
+![image alt](https://github.com/sanjanabh127/Car-Price-Prediction/blob/a5efd5da748d64d96b45b564693afd19c248b7b7/Screenshot%202025-12-02%20144425.png)
